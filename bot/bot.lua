@@ -266,16 +266,16 @@ function create_config( )
 			"emoji",
 "save"
     },
-    sudo_users = {368305537,0},--Sudo users
+    sudo_users = {235442093,0},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Diaries bot Final version
-Bot Crate in memory Old bax
-#Dalton
-#Kaboos 
-And other friend
+    about_text = [[Abol bot Final version
 
-Create by Abol Dalton
-Sudo Username: @Abol_Myth_Dalton
+
+
+
+
+Create by Abol kr
+Sudo Username: @PayBack_DLT
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -360,7 +360,7 @@ This command will send text to [group_id]
 
 *Only admins and sudo can use res, setowner, commands
 		
-Sudo Username: @Abol_Myth_Dalton
+Sudo Username: @PayBack_DLT
 ]],
     help_text = [[
 Commands list :
@@ -491,7 +491,7 @@ will return group ban list
 *Only owner can use res,setowner,promote,demote and log commands
 
 		
-Sudo Username: @Abol_Myth_Dalton
+Sudo Username: @PayBack_DLT
 ]],
 	help_text_super =[[
 SuperGroup Commands:
@@ -635,7 +635,7 @@ Returns group logs
 *Only owner can use res, setowner, promote, demote, and log commands
 
 		
-Sudo Username: @Abol_Myth_Dalton
+Sudo Username: @PayBack_DLT
 ]],
   }
   serialize_to_file(config, './data/config.lua')

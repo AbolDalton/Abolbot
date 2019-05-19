@@ -266,16 +266,16 @@ function create_config( )
 			"emoji",
 "save"
     },
-    sudo_users = {368305537,0},--Sudo users
+    sudo_users = {235442093,0},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Diaries bot Final version
-Bot Crate in memory Old bax
-#Dalton
-#Kaboos 
-And other friend
+    about_text = [[me bot Final version
+ 
 
-Create by Abol Dalton
-Sudo Username: @Abol_Myth_Dalton
+ 
+
+
+Create by Abol kr
+Sudo Username: @PayBack_DLT
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -491,7 +491,7 @@ will return group ban list
 *Only owner can use res,setowner,promote,demote and log commands
 
 		
-Sudo Username: @Abol_Myth_Dalton
+Sudo Username: @PayBack_DLT 
 ]],
 	help_text_super =[[
 SuperGroup Commands:
